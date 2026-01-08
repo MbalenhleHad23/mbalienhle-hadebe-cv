@@ -49,6 +49,16 @@ h2 {
 ul {
   padding-left: 20px;
 }
+.profile-pic {
+  width: 160px;
+  height: 160px;
+  object-fit: cover;
+  border-radius: 50%;
+  display: block;
+  margin: 20px auto;
+  border: 3px solid #0a3d62;
+}
+
 
 footer {
   border-top: 1px solid #e6e6e6;
